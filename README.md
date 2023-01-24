@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://t.me/coding_and_it">Telegramm</a></strong> |
+  <strong><a href="https://t.me/coding_and_it">Telegram</a></strong>
 </p>
 
 <p align="center">❤ I'm junior developer.</p>
