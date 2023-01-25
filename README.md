@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
+  <br>
   <strong><a href="https://t.me/coding_and_it">Telegram</a></strong> |
-  <strong><a href="night3098game@gmail.com"</strong>
+  <strong><a href="night3098game@gmail.com">Gmail</a></strong>
 </p>
 
 <p align="center">❤ I'm junior developer.</p>
