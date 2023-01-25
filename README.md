@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://t.me/Coder154" target="blank">Telegram</a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
