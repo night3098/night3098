@@ -6,13 +6,15 @@
 <h1 align="center">Welcome to my GitHub profile [X_X]</h1>
 
 <p align="center">
-  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&hide_border=true&show_icons=true" alt=">
-  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&layout=compact">
+  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&hide_border=true&show_icons=true&theme=onedark" alt=">
+  <br>
+  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&layout=compact&theme=onedark">
 </p>
 
 <p align="center">
   <br>
-  <strong><a href="https://t.me/coding_and_it">Telegram</a></strong> |
+  <strong><a href="https://t.me/coding_and_it">Telegram</a></strong>
+  <br>
   <strong><a href="mailto:night3098game@gmail.com">Gmail</a></strong>
 </p>
 
