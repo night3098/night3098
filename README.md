@@ -1,20 +1,5 @@
 <p align="center">
-  <script>
-    var pictures = [
-      "waifu.png",
-      "waifu2.png",
-      "waifu3.png",
-      "waifu4.png",
-      "waifu6.png",
-      "waifu8.png",
-      "waifu9.png",
-      "waifu10.png",
-      "waifu11.png",
-      "waifu12.png",
-    ];
-  var picture = pictures[Math.floor(Math.random() * pictures.length)];
-  document.write('<img src="' + picture + '"/>');
-  </script>
+  <a href="https://t.me/coding_and_it"><img src="banner.png" alt="Night3098 banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://t.me/coding_and_it">Night3098</a>!</h1>
