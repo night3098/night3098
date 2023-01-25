@@ -6,9 +6,9 @@
 <h1 align="center">Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h1>
 
 <p align="center">
-  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&layout=compact&theme=onedark">
+  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&theme=onedark">
   <br>
-  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&hide_border=true&show_icons=true&theme=onedark" alt=">
+  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&show_icons=true&theme=onedark" alt=">
   <br>
 </p>
 
