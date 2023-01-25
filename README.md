@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&hide_border=true&show_icons=true" alt=">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=night3098)](https://github.com/night3098/github-readme-stats)
+  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&layout=compact">
 </p>
 
 <p align="center">
