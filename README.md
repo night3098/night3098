@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://t.me/coding_and_it"><img src="banner.jpeg" alt="Night3098 banner"></a>
+  '''<a href="https://t.me/coding_and_it"><img src="banner.jpeg" alt="Night3098 banner"></a>
+  <a href=""><img src="https://api.lorem.space/image?w=150&h=150" alt="Night3098 banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://t.me/coding_and_it">Night3098</a>!</h1>
