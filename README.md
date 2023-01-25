@@ -6,10 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h1>
 
 <p align="center">
-  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&theme=onedark">
-  <br>
-  <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&show_icons=true&theme=onedark">
-  <br>
+
 </p>
 
 <p align="center">
