@@ -11,7 +11,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://t.me/Coder154" target="blank">Telegram</a></p>
+<p align="left"><a href="https://t.me/Night3098" target="blank">Telegram</a></p>
+<p align="left"><a href="mailto:night3098game@gmail.com" target="blank">Mail</a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
