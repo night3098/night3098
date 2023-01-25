@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api?username=Night3098&hide_border=true&show_icons=true&theme=onedark" alt=">
   <br>
+  <br>
   <a href="https://github.com/Night3098"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=night3098&layout=compact&theme=onedark">
 </p>
 
