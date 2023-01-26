@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Night3098</h1>
 <h3 align="center">❤ I'm junior developer. Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h3>
 
-<p align="center"> <img src="banner.png" alt="night3098" /> </p>
+<p align="center"> <img src="banner_updated.png" alt="night3098" /> </p>
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=0e75b6&style=flat&theme=onestar&no-frame=true" alt="night3098" /> </p>
