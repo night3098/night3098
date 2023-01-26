@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="banner.png" alt="night3098" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="night3098" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=0e75b6&style=onedark&theme=onedark&columns=-1" alt="night3098" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=night3098" alt="night3098" /></a> </p>
 
