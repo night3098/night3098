@@ -23,8 +23,6 @@
 <h3 align="center"></h3>
 <h3 align="center">Stats:</h3>
 
-<!---<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=night3098&theme=dark" alt="night3098" /></p>--->
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&theme=transparent&no-frame=true&layout=compact&hide_border=true" alt="night3098" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=night3098&show_icons=true&locale=en&theme=transparent&hide_border=true&no-frame=true" alt="night3098" /></p>
