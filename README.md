@@ -36,8 +36,10 @@
   <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
   <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> </a>
   <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/> </a>
+  <a href="https://github.com/Night3098/" targer="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /> </a>
 </p>
 
+<hr>
 <h3 align="center"></h3>
 <h3 align="center">Stats:</h3>
 
