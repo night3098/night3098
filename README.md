@@ -7,7 +7,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=0e75b6&style=flat&theme=onestar&no-frame=true" alt="night3098" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=night3098&column=-1&theme=onestar&no-frame=true" alt="night3098" /></a> </p>
 
-
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
