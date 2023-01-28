@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Night3098</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=❤+I'm+junior+developer.+Welcome+to+my+GitHub+profile+(づ｡◕‿‿◕｡)づ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello)](https://git.io/typing-svg)
 <h3 align="center">❤ I'm junior developer. Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h3>
 
 <p align="center"> <img src="banner_updated.png" alt="night3098" /> </p>
