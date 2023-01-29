@@ -43,7 +43,7 @@
 <hr>
 <h3 align="center">Stats:</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&no-frame=false&layout=compact&hide_border=false&theme=nord" width="50%" alt="night3098" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&no-frame=false&layout=compact&hide_border=false&theme=nord" width="45%" alt="night3098" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=night3098&show_icons=true&locale=en&hide_border=false&no-frame=false&theme=nord" width="50%" alt="night3098" /></p>
 
