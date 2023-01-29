@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Night3098</h1>
-<h3 align="center">❤ I'm junior developer. Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h3>
-
 <p align="center"> <img src="banner_updated.png" alt="night3098" /> </p>
+<h3 align="left">❤ I'm junior developer. Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h3>
+
 
 <hr>
 <p align="center">
