@@ -4,11 +4,13 @@
 <p align="center"> <img src="banner_updated.png" alt="night3098" /> </p>
 
 <hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=869290&theme=falt&no-frame=true" alt="night3098" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=night3098&column=-1&theme=onestar&no-frame=true" alt="night3098" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=869290&theme=falt&no-frame=true" alt="night3098" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=night3098&column=-1&theme=onestar&no-frame=true" alt="night3098" /></a>
+</p>
 
 <hr>
-<h3 align="center">Social:</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Contact+Me%3A" alt="Typing SVG" /></a></h3>
 <p align="center">
   <a href="https://discord.gg/#7351" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://t.me/Night3098" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -16,7 +18,9 @@
   <a href="www.pinterest.com/Night3098" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 </p>
 <hr>
-<h3 align="center">Languages and tools:</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a>
+</p>
 <p align="center">
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)"/> </a>
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> </a>
@@ -39,6 +43,8 @@
 <hr>
 <h3 align="center">Stats:</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&theme=transparent&no-frame=true&layout=compact&hide_border=true" alt="night3098" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&no-frame=false&layout=compact&hide_border=false&theme=nord" width="50%" alt="night3098" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=night3098&show_icons=true&locale=en&theme=transparent&hide_border=true&no-frame=true" alt="night3098" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=night3098&show_icons=true&locale=en&hide_border=false&no-frame=false&theme=nord" width="50%" alt="night3098" /></p>
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
