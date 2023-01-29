@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Night3098</h1>
 <p align="center"> <img src="banner_updated.png" alt="night3098" /> </p>
-<h3 align="left">❤ I'm junior developer. Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h3>
-
+<h3 align="center">❤ I'm junior developer. Welcome to my GitHub profile (づ｡◕‿‿◕｡)づ</h3>
 
 <hr>
 <p align="center">
@@ -11,7 +10,7 @@
 </p>
 
 <hr>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Contact+Me%3A" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Contact+with+me%3A" alt="Typing SVG" /></a></h3>
 <p align="center">
   <a href="https://discord.gg/#7351" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://t.me/Night3098" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
