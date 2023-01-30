@@ -11,7 +11,7 @@
 </p>
 
 <hr>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Contact+with+me%3A" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=450&lines=Contact+with+me%3A" alt="Typing SVG" /></a></h3>
 <p align="center">
   <a href="https://discord.gg/#7351" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://t.me/Night3098" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -20,10 +20,10 @@
 </p>
 <hr>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Tools%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=450&lines=Tools%3A" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)"/> </a>
+<a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white)"/> </a>
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> </a>
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> </a>
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/> </a>
@@ -34,7 +34,7 @@
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/> </a>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=435&lines=Languages%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=450&lines=Languages%3A" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/> </a>
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> </a>
@@ -46,7 +46,9 @@
 <a href="https://github.com/Night3098/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
 </p>
 <hr>
-<h3 align="center">Stats:</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=869290&width=450&lines=Stats%3A" alt="Typing SVG" /></a>
+</p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=transparent" width="45%" alt="night3098" /></p>
 
