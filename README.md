@@ -47,6 +47,6 @@
     <a href="https://gitprofilee.netlify.app/user?id=Night3098">More stats</a>
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=night3098&show_icons=true&locale=en&no-frame=true&layout=compact&hide_border=true&theme=transparent" width="45%" alt="night3098" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=night3098&show_icons=true&locale=en&hide_border=true&no-frame=true&theme=transparent" width="50%" alt="night3098" /></p>
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Night3098&hide_border=true&background=FFFFFF00">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Night3098&background=FFFFFF00&hide_border=true&theme=dracula">
   </summary>
 </details></h3>
