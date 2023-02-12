@@ -4,7 +4,7 @@
 <h3 align="center">❤ I'm junior developer. Welcome to my GitHub profile <img src="kitty.gif" width=20 /></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=869290&theme=falt&no-frame=true" alt="night3098" />
+  <img src="https://komarev.com/ghpvc/?username=night3098&label=Profile%20views&color=869290&theme=falt&no-frame=true&style=for-the-badge" alt="night3098" />
 </p>
 
 <h3 align="center">Contact with me</h3>
